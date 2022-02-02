@@ -1,0 +1,2 @@
+# Alatka-POC
+stratup POC
